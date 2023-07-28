@@ -1,3 +1,5 @@
+##3 formas diferentes de resolver um exercício que pede para imprimir apenas os números múltiplos de 3 entre os números que o usuário informou
+
 #ex1
 x = []
 
