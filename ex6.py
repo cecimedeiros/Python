@@ -1,3 +1,5 @@
+#usando def para avaliar se o colesterol de alguém está normal ou alto com base em sua idade e nível de colesterol
+
 def nivelColesterol(id,col):
   
   if (id <= 29):
