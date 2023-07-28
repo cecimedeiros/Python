@@ -1,3 +1,5 @@
+#exercicio usando def que recebe a idade de um aluno e o curso que ele deseja após isso informa mensalidade, caso o aluno possa participar do curso
+
 def mensalidade(x,y):
  
     if(x == "natação"):
