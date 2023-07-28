@@ -1,3 +1,5 @@
+#imprime o fatorial do número informado pelo usuário
+
 numero = int(input("Fatorial de: ") )
 
 resultado=1
