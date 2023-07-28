@@ -1,3 +1,5 @@
+#informa os números entre um intervalo crescente informado pelo usuário
+
 print("Informe o intervalo:")
 x = int(input())
 y = int(input())
