@@ -1,3 +1,5 @@
+#recebe a pontuação de duas equipes(LCC e SI) por 5 rodadas e retorna o vencedor ou um possível empate
+
 vLCC = 0
 vSI = 0
 emp = 0
