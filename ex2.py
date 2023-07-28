@@ -1,3 +1,5 @@
+#recebe um valor do usuário e retorna a quantidade de flores que o mesmo pode comprar
+
 valor = float(input('digite o valor que você deseja gastar'))
 
 rosa = valor // 5.80
