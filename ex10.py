@@ -1,3 +1,5 @@
+# informa as notas acima de 8 das 5 informadas pelo usuário
+
 x = []
 
 for i in range(5):
