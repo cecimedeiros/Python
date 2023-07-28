@@ -1,4 +1,6 @@
-qtdeFotos = int (input('Quantas fotos para revelar? '))
+#Faça um programa que receba o número de fotos que o usuário deseja revelar e imprima o custo e se o usuário ganhou um álbum.
+
+qtdeFotos = int (input('Quantas fotos deseja revelar? '))
 if (qtdeFotos <= 0):
   print('Informe uma quantidade válida')
 else:
